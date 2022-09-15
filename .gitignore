@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room REST Service/task/build/
+/Cinema Room REST Service/task/out/
+/Cinema Room REST Service/task/out/production/classes/
+/Topics/Bean validation/Add two annotations/build/
+/Topics/Bean validation/Array of colors/build/
+/Topics/Bean validation/Tasks/build/
+/Topics/Exception handling/Improve the program/build/
